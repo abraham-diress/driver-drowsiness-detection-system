@@ -1,7 +1,6 @@
 # Driver's Drowsiness Detection System
 
-[Demo Video Link
-]([url](https://www.youtube.com/watch?v=lh46g5aiZpQ))
+[Demo Video Link]([url](https://www.youtube.com/watch?v=lh46g5aiZpQ))
 ## Introduction
 The Driver's Drowsiness Detection System is a cutting-edge tool designed to enhance road safety by detecting signs of driver fatigue and drowsiness in real-time. Utilizing advanced computer vision and machine learning techniques, this system analyzes a driver's facial features and eye movements to identify potential drowsiness, alerting them promptly to prevent accidents.
 
@@ -24,20 +23,20 @@ Before running the application, ensure you have the following installed:
    ```bash
    git clone https://github.com/[your-username]/drowsiness-detection.git
    cd drowsiness-detection ```
-2. **Install Dependencies**
+2. **Change Directory**
+   ```bash
+   cd src ```
+4. **Install Dependencies**
    ```bash
    pip install opencv-python
    pip install pygame
    pip install tensorflow
    pip install numpy ```
 
-3. **Run Applicaion**
+5. **Run Applicaion**
    ```bash
    python app.py ```
 
 ### Usage
 Once the application starts, it will access the computer's webcam. Ensure good lighting conditions for accurate detection. The system will analyze the video feed in real-time and provide visual and auditory alerts if drowsiness is detected.
-
-
-
 
