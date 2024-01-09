@@ -1,7 +1,5 @@
 # Driver's Drowsiness Detection System
 
-[Demo Video Link](https://www.youtube.com/watch?v=lh46g5aiZpQ)
-
 ## Introduction
 The Driver's Drowsiness Detection System is a cutting-edge tool designed to enhance road safety by detecting signs of driver fatigue and drowsiness in real-time. Utilizing advanced computer vision and machine learning techniques, this system analyzes a driver's facial features and eye movements to identify potential drowsiness, alerting them promptly to prevent accidents.
 
